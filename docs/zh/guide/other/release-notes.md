@@ -1,6 +1,6 @@
-# Release Notes
+# 更新记录
 
-[Release Notes](https://github.com/mgbq/nx-admin/releases)
+[在线查看更新记录](https://github.com/mgbq/nx-admin/releases)
 
 <script>
 export default {

@@ -13,11 +13,17 @@ git clone https://github.com/yaochenyang007/vue-element-site.git
 npm install
 
 # develop
-npm run dev
+npm run docs:dev
+
+# build
+npm run docs:build
 ```
-!['预览'](https://yaochenyang.xin/mes/site.png)
 
 open http://localhost:8080/
+
+
+!['预览'](https://yaochenyang.xin/img/vue-manger-site.png)
+
 
 > Generator by [vuepress](https://github.com/vuejs/vuepress)
 
