@@ -7,6 +7,10 @@ module.exports = {
       ['link', { rel: 'icon', href: `/favicon.png` }]
     ],
     base: "/mes/",
+    extraWatchFiles: [
+    '.vuepress/config.js', // 使用相对路径
+   ],
+    plugins: ['@vuepress/back-to-top','@vuepress/active-header-links'], 
     themeConfig: {
       locales: {
         '/': {
@@ -252,7 +256,7 @@ locales: {
   },
   "/zh/": {
     lang: "zh-CN",
-    description: "中后台解决方案"
+    description: "前端后台管理系统解决方案"
   }
 },
 

@@ -9,6 +9,10 @@ The documentation source of [vue-element-site](https://github.com/yaochenyang007
 # clone the project
 git clone https://github.com/yaochenyang007/vue-element-site.git
 
+
+#将 VuePress 作为一个本地依赖安装
+yarn add -D vuepress # 或者：npm install -D vuepress
+
 # install dependency
 npm install
 

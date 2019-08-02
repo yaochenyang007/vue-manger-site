@@ -91,13 +91,8 @@ pageClass: getting-started
 
 你需要在本地安装 [node](http://nodejs.org/) 和 [git](https://git-scm.com/)。本项目技术栈基于 [ES2015+](http://es6.ruanyifeng.com/)、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh-cn/)、[vue-router](https://router.vuejs.org/zh-cn/) 、[axios](https://github.com/axios/axios) 和 [element-ui](https://github.com/ElemeFE/element)，所有的请求数据都使用[Mock.js](https://github.com/nuysoft/Mock)模拟，提前了解和学习这些知识会对使用本项目有很大的帮助。
 
-## 相关文档
 
-
-
-**本项目不支持低版本浏览器(如 ie)，有需求请自行添加 polyfill [详情](https://github.com/mgbq/nx-admin/wiki#babel-polyfill)**
-
-**注意：该项目使用 element-ui@2.3.0+ 版本，所以最低兼容 vue@2.5.0+**
+**本项目不支持低版本浏览器(如 ie)，有需求请自行添加 polyfill**
 
 ## 目录结构
 
@@ -172,7 +167,7 @@ npm install --registry=https://registry.npm.taobao.org
 
 有任何修改和建议都可以该项目 pr 和 issue
 
-[nx-admin](https://github.com/yaochenyang007/vue--manger-admin) 还在持续迭代中，逐步沉淀和总结出更多功能和相应的实现代码，总结中后台产品模板/组件/业务场景的最佳实践。本项目也十分期待你的参与和[反馈](https://github.com/yaochenyang007/vue--manger-admin/issues)。
+[vue-manger-site](https://github.com/yaochenyang007/vue-manger-site) 还在持续迭代中，逐步沉淀和总结出更多功能和相应的实现代码，总结中后台产品模板/组件/业务场景的最佳实践。本项目也十分期待你的参与和[反馈](https://github.com/yaochenyang007/vue--manger-admin/issues)。
 
 ## 特别感谢
 
